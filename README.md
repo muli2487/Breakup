@@ -1,1 +1,1 @@
-##  NLP using PyTorch
+##  Stochastic Gradient Descent using Python
